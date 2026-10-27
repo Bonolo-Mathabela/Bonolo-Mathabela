@@ -37,7 +37,7 @@ the systems behind it.
 - 🚀 Always learning, building, and improving
 
 <!-- GitHub stats from https://github.com/stats-organization/github-stats-extended -->
-[![Bonolo's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Bonolo's GitHub stats](https://github-stats-extended.vercel.app/api?username=Bonolo-Mathabela)](https://github.com/stats-organization/github-stats-extended)
 
 ## Technical Skills
 
