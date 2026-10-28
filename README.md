@@ -65,6 +65,12 @@ My interests span frontend and backend development, mobile applications, and UI/
   <img src="https://img.shields.io/badge/Notion-242938?style=flat-square&logo=notion&logoColor=BED9F4" alt="Notion" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ## GitHub Stats:
 
 <div align="center">
@@ -72,18 +78,13 @@ My interests span frontend and backend development, mobile applications, and UI/
   <img width="48%" src="https://streak-stats.demolab.com/?user=Bonolo-Mathabela&theme=default&hide_border=false" />
 </div>
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bonolo-Mathabela&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bonolo-Mathabela&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Bonolo-Mathabela&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bonolo-Mathabela&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <div align="center">
   <p><em>Follow me around these socials:</em></p>
 
