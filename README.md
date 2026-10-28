@@ -72,13 +72,13 @@ My interests span frontend and backend development, mobile applications, and UI/
   <img width="48%" src="https://streak-stats.demolab.com/?user=Bonolo-Mathabela&theme=default&hide_border=false" />
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bonolo-Mathabela&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bonolo-Mathabela&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
