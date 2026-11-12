@@ -19,52 +19,52 @@ My interests span frontend and backend development, mobile applications, and UI/
 
 #### **Programming Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-242938?style=flat-square&logo=csharp&logoColor=BED9F4" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-242938?style=flat-square&logo=python&logoColor=BED9F4" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-242938?style=flat-square&logo=javascript&logoColor=BED9F4" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-242938?style=flat-square&logo=typescript&logoColor=BED9F4" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Kotlin-242938?style=flat-square&logo=kotlin&logoColor=BED9F4" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-242938?style=flat-square&logo=openjdk&logoColor=BED9F4" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-242938?style=flat-square&logo=html5&logoColor=BED9F4" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-242938?style=flat-square&logo=css3&logoColor=BED9F4" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C%23-F9C9C7?style=flat-square&logo=csharp&logoColor=3F4540" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-F9C9C7?style=flat-square&logo=python&logoColor=3F4540" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F9C9C7?style=flat-square&logo=javascript&logoColor=3F4540" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-F9C9C7?style=flat-square&logo=typescript&logoColor=3F4540" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Kotlin-F9C9C7?style=flat-square&logo=kotlin&logoColor=3F4540" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-F9C9C7?style=flat-square&logo=openjdk&logoColor=3F4540" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-F9C9C7?style=flat-square&logo=html5&logoColor=3F4540" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-F9C9C7?style=flat-square&logo=css3&logoColor=3F4540" alt="CSS3" />
 </p>
 
 #### **Frameworks & Libraries**
 <p align="left">
-  <img src="https://img.shields.io/badge/.NET-242938?style=flat-square&logo=dotnet&logoColor=BED9F4" alt=".NET" />
-  <img src="https://img.shields.io/badge/React-242938?style=flat-square&logo=react&logoColor=BED9F4" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-242938?style=flat-square&logo=react&logoColor=BED9F4" alt="React Native" />
-  <img src="https://img.shields.io/badge/Next.js-242938?style=flat-square&logo=nextdotjs&logoColor=BED9F4" alt="Next JS" />
-  <img src="https://img.shields.io/badge/Node.js-242938?style=flat-square&logo=nodedotjs&logoColor=BED9F4" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/NPM-242938?style=flat-square&logo=npm&logoColor=BED9F4" alt="NPM" />
-  <img src="https://img.shields.io/badge/TailwindCSS-242938?style=flat-square&logo=tailwindcss&logoColor=BED9F4" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/WordPress-242938?style=flat-square&logo=wordpress&logoColor=BED9F4" alt="WordPress" />
+  <img src="https://img.shields.io/badge/.NET-F9C9C7?style=flat-square&logo=dotnet&logoColor=3F4540" alt=".NET" />
+  <img src="https://img.shields.io/badge/React-F9C9C7?style=flat-square&logo=react&logoColor=3F4540" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-F9C9C7?style=flat-square&logo=react&logoColor=3F4540" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-F9C9C7?style=flat-square&logo=nextdotjs&logoColor=3F4540" alt="Next JS" />
+  <img src="https://img.shields.io/badge/Node.js-F9C9C7?style=flat-square&logo=nodedotjs&logoColor=3F4540" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/NPM-F9C9C7?style=flat-square&logo=npm&logoColor=3F4540" alt="NPM" />
+  <img src="https://img.shields.io/badge/TailwindCSS-F9C9C7?style=flat-square&logo=tailwindcss&logoColor=3F4540" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/WordPress-F9C9C7?style=flat-square&logo=wordpress&logoColor=3F4540" alt="WordPress" />
 </p>
 
 #### **Cloud, Databases & Infrastructure**
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-242938?style=flat-square&logo=amazon-aws&logoColor=BED9F4" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-242938?style=flat-square&logo=microsoftazure&logoColor=BED9F4" alt="Azure" />
-  <img src="https://img.shields.io/badge/Oracle-242938?style=flat-square&logo=oracle&logoColor=BED9F4" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Vercel-242938?style=flat-square&logo=vercel&logoColor=BED9F4" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Supabase-242938?style=flat-square&logo=supabase&logoColor=BED9F4" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MongoDB-242938?style=flat-square&logo=mongodb&logoColor=BED9F4" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-242938?style=flat-square&logo=mysql&logoColor=BED9F4" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Cisco-242938?style=flat-square&logo=cisco&logoColor=BED9F4" alt="Cisco" />
+  <img src="https://img.shields.io/badge/AWS-F9C9C7?style=flat-square&logo=amazon-aws&logoColor=3F4540" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-F9C9C7?style=flat-square&logo=microsoftazure&logoColor=3F4540" alt="Azure" />
+  <img src="https://img.shields.io/badge/Oracle-F9C9C7?style=flat-square&logo=oracle&logoColor=3F4540" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Vercel-F9C9C7?style=flat-square&logo=vercel&logoColor=3F4540" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Supabase-F9C9C7?style=flat-square&logo=supabase&logoColor=3F4540" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MongoDB-F9C9C7?style=flat-square&logo=mongodb&logoColor=3F4540" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-F9C9C7?style=flat-square&logo=mysql&logoColor=3F4540" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Cisco-F9C9C7?style=flat-square&logo=cisco&logoColor=3F4540" alt="Cisco" />
 </p>
 
 #### **Design & Creative Suite**
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-242938?style=flat-square&logo=figma&logoColor=BED9F4" alt="Figma" />
-  <img src="https://img.shields.io/badge/Framer-242938?style=flat-square&logo=framer&logoColor=BED9F4" alt="Framer" />
-  <img src="https://img.shields.io/badge/Canva-242938?style=flat-square&logo=canva&logoColor=BED9F4" alt="Canva" />
-  <img src="https://img.shields.io/badge/Adobe-242938?style=flat-square&logo=adobe&logoColor=BED9F4" alt="Adobe" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-242938?style=flat-square&logo=adobephotoshop&logoColor=BED9F4" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-242938?style=flat-square&logo=adobeillustrator&logoColor=BED9F4" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe_After_Effects-242938?style=flat-square&logo=adobeaftereffects&logoColor=BED9F4" alt="Adobe After Effects" />
-  <img src="https://img.shields.io/badge/Adobe_Lightroom-242938?style=flat-square&logo=adobelightroom&logoColor=BED9F4" alt="Adobe Lightroom" />
-  <img src="https://img.shields.io/badge/Affinity_Photo-242938?style=flat-square&logo=affinity-photo&logoColor=BED9F4" alt="Affinity Photo" />
-  <img src="https://img.shields.io/badge/Notion-242938?style=flat-square&logo=notion&logoColor=BED9F4" alt="Notion" />
+  <img src="https://img.shields.io/badge/Figma-F9C9C7?style=flat-square&logo=figma&logoColor=3F4540" alt="Figma" />
+  <img src="https://img.shields.io/badge/Framer-F9C9C7?style=flat-square&logo=framer&logoColor=3F4540" alt="Framer" />
+  <img src="https://img.shields.io/badge/Canva-F9C9C7?style=flat-square&logo=canva&logoColor=3F4540" alt="Canva" />
+  <img src="https://img.shields.io/badge/Adobe-F9C9C7?style=flat-square&logo=adobe&logoColor=3F4540" alt="Adobe" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-F9C9C7?style=flat-square&logo=adobephotoshop&logoColor=3F4540" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-F9C9C7?style=flat-square&logo=adobeillustrator&logoColor=3F4540" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-F9C9C7?style=flat-square&logo=adobeaftereffects&logoColor=3F4540" alt="Adobe After Effects" />
+  <img src="https://img.shields.io/badge/Adobe_Lightroom-F9C9C7?style=flat-square&logo=adobelightroom&logoColor=3F4540" alt="Adobe Lightroom" />
+  <img src="https://img.shields.io/badge/Affinity_Photo-F9C9C7?style=flat-square&logo=affinity-photo&logoColor=3F4540" alt="Affinity Photo" />
+  <img src="https://img.shields.io/badge/Notion-F9C9C7?style=flat-square&logo=notion&logoColor=3F4540" alt="Notion" />
 </p>
 
 <picture>
