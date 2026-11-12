@@ -94,12 +94,6 @@ My interests span frontend and backend development, mobile applications, and UI/
   <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&label=" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&label=" alt="Twitter" />
-  </a>
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white&label=" alt="Spotify" />
-  </a>
   <a href="https://dev.to/YOUR_DEVTO_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/DEV-0A0A0A?style=flat-square&logo=devdotto&logoColor=white&label=" alt="DEV" />
   </a>
