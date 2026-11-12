@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.svg" alt="Welcome To My Digital Space" width="100%" />
+  <img src="./github-banner(1).svg" alt="Welcome To My Digital Space" width="100%" />
 </p>
 
 ### Web Developer | Mobile Developer | UI/UX Designer
