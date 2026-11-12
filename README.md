@@ -1,4 +1,6 @@
-<img width="4096" height="1512" alt="image 2" src="https://github.com/user-attachments/assets/e2078898-e86f-4c63-80bf-31a9150158a6" />
+<p align="center">
+  <img src="./github-banner.svg" alt="Welcome To My Digital Space" width="100%" />
+</p>
 
 ### Web Developer | Mobile Developer | UI/UX Designer
 
